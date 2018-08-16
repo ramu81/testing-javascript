@@ -1,0 +1,27 @@
+{
+  "name": "testing-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --watch --reporter min"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramu81/testing-javascript.git"
+  },
+  "keywords": [
+    "testing",
+    "javascript"
+  ],
+  "author": "Ram Kondapalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramu81/testing-javascript/issues"
+  },
+  "homepage": "https://github.com/ramu81/testing-javascript#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
