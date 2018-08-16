@@ -1,4 +1,4 @@
-let factorial = function(num){
+let factorial = function(num) {
 	
 	if (num < 0) throw new Error('Nagative input not expected.');    
 	
